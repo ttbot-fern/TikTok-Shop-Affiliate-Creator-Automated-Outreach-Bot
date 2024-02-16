@@ -34,11 +34,11 @@ Website: ttbot.co
     <code>hello@ttbot.co</code>
 </a>
 
-<a href="wa.me/+19258998649">
+
+
+<a href="https://wa.me/+19258998649">
     <img alt="Whatsapp" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" />
     <code>+1-925-899-8649</code>
 </a>
-
-Whatsapp: 1-925-899-8649
 
 Directly reach me out from one of above channel and hire me to get Tiktok Shop Affiliate Creator Automated Outreach Bot.
