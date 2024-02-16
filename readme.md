@@ -33,8 +33,11 @@ Website: ttbot.co
     <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
     <code>hello@ttbot.co</code>
 </a>
-  
-Email: hello@ttbot.co
+
+<a href="wa.me/+19258998649">
+    <img alt="Whatsapp" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" />
+    <code>+1-925-899-8649</code>
+</a>
 
 Whatsapp: 1-925-899-8649
 
