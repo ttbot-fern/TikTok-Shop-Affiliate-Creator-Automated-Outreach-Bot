@@ -28,16 +28,21 @@
 
 ## Connect With Us:
 
+<br/>
+
 <a href="https://ttbot.co">
     <img alt="Website" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" />
     <code>ttbot.co</code>
 </a>
+
+<br/>
 
 <a href="https://mail.google.com/mail/u/?authuser=hello@ttbot.co">
     <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
     <code>hello@ttbot.co</code>
 </a>
 
+<br/>
 
 
 <a href="https://wa.me/+19258998649">
