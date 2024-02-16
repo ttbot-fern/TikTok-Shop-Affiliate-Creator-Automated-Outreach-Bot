@@ -27,7 +27,11 @@
 3.	🛠️ In Construction: We will automate Tiktok Profile Messages and follow-up messages
 
 ## Connect With Us:
-Website: ttbot.co
+
+<a href="https://ttbot.co">
+    <img alt="Website" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" />
+    <code>ttbot.co</code>
+</a>
 
 <a href="https://mail.google.com/mail/u/?authuser=hello@ttbot.co">
     <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
