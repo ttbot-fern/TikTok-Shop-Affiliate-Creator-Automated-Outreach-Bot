@@ -6,8 +6,6 @@
 
 <img alt="Image" width="50%" src="https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/10/Sales_Quotas.jpg" />
 
-![Image](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/10/Sales_Quotas.jpg?w=768&h=432)
-
 🚀 Skyrocket Sales & Content: Elevate your brand's visibility and drive sales by reaching out to ~1000 creators per day through TikTok Shops. Our service is your ticket to tapping into the vast audience on the platform, transforming viewers into loyal customers.
 
 🛌 Maximize Efficiency, Minimize Effort: Partner with top affiliates effortlessly; our bot streamlines outreach and follow-ups using TikTok Shop's precise filters.
@@ -15,6 +13,8 @@
 💥 Jumpstart Your TikTok Shops with a Bang!: Ideal for brands aiming to scale quickly on TikTok and ensures visibility in the crowded marketplace. 
 
 # Features
+
+<img alt="Image" width="50%" src="https://amoeboids.com/wp-content/uploads/2020/08/A-Definitive-Guide-to-Announcing-New-Features-Banner.webp" />
 
 🤖 1 - Automate your TikTok outreach with our Affiliate & Creator Bot, streamlining affiliate invitations and creator messaging directly through the TikTok Seller Center
 
