@@ -4,7 +4,7 @@
 
 # Benefits
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.salesforce.com%2Fblog%2Fsales-quotas%2F&psig=AOvVaw39yH2FM1BmMggt_U9UxOy5&ust=1708201730888000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDS573ZsIQDFQAAAAAdAAAAABAE)
+![Image](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/10/Sales_Quotas.jpg?w=768&h=432)
 
 🚀 Skyrocket Sales & Content: Elevate your brand's visibility and drive sales by reaching out to ~1000 creators per day through TikTok Shops. Our service is your ticket to tapping into the vast audience on the platform, transforming viewers into loyal customers.
 
