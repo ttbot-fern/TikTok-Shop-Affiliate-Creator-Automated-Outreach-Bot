@@ -29,6 +29,11 @@
 ## Connect With Us:
 Website: ttbot.co
 
+<a href="https://mail.google.com/mail/u/?authuser=hello@ttbot.co">
+    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+    <code>hello@ttbot.co</code>
+</a>
+  
 Email: hello@ttbot.co
 
 Whatsapp: 1-925-899-8649
