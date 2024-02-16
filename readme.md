@@ -27,9 +27,7 @@
 3.	🛠️ In Construction: We will automate Tiktok Profile Messages and follow-up messages
 
 ## Connect With Us:
-
 <br/>
-
 <a href="https://ttbot.co">
     <img alt="Website" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" />
     <code>ttbot.co</code>
@@ -49,5 +47,7 @@
     <img alt="Whatsapp" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" />
     <code>+1-925-899-8649</code>
 </a>
+
+<br/>
 
 Directly reach me out from one of above channel and hire me to get Tiktok Shop Affiliate Creator Automated Outreach Bot.
