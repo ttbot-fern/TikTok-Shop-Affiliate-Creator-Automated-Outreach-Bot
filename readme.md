@@ -31,6 +31,11 @@
 2.	💬 We automate Creator Messages and follow-up messages through Tiktok Seller Center
 3.	🛠️ In Construction: We will automate Tiktok Profile Messages and follow-up messages
 
+# Demo:
+
+[![Demo link](https://img.youtube.com/vi/1Y8bWmnuXr0/0.jpg)](https://www.youtube.com/watch?v=1Y8bWmnuXr0)
+
+
 ## Connect With Us:
 <br/>
 <a href="https://ttbot.co">
@@ -46,10 +51,6 @@
 </a>
 
 <br/>
-
-https://youtu.be/1Y8bWmnuXr0
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1Y8bWmnuXr0/0.jpg)](https://www.youtube.com/watch?v=1Y8bWmnuXr0)
 
 
 <a href="https://wa.me/+19258998649">
