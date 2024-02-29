@@ -34,9 +34,6 @@
 # Demo:
 
 
-
-[![Demo link](https://img.youtube.com/vi/1Y8bWmnuXr0/0.jpg )](https://www.youtube.com/watch?v=1Y8bWmnuXr0)
-
 <a href="https://www.youtube.com/watch?v=1Y8bWmnuXr0">
 <img alt="Demo link" width="100%" src="https://img.youtube.com/vi/1Y8bWmnuXr0/0.jpg" />
 </a>
