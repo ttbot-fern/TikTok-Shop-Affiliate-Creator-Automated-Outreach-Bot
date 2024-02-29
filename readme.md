@@ -34,7 +34,7 @@
 # Demo:
 
 
-[![Demo link](https://img.youtube.com/vi/1Y8bWmnuXr0/0.jpg) width="100%"](https://www.youtube.com/watch?v=1Y8bWmnuXr0)
+[![Demo link](https://img.youtube.com/vi/1Y8bWmnuXr0/0.jpg | width=100)](https://www.youtube.com/watch?v=1Y8bWmnuXr0)
 
 
 ## Connect With Us:
