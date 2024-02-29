@@ -34,15 +34,10 @@
 # Demo:
 
 
+
+<div style="width:100%;">
 [![Demo link](https://img.youtube.com/vi/1Y8bWmnuXr0/0.jpg )](https://www.youtube.com/watch?v=1Y8bWmnuXr0)
-
-
-<iframe width="100%" 
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+</div>
 
 ## Connect With Us:
 <br/>
